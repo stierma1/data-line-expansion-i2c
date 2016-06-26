@@ -1,0 +1,19 @@
+{
+  "name": "i2c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/data-line-expansion-i2c.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/data-line-expansion-i2c/issues"
+  },
+  "homepage": "https://github.com/stierma1/data-line-expansion-i2c#readme"
+}

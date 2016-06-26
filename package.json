@@ -1,0 +1,29 @@
+{
+  "name": "data-line-expansion-i2c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node post-install.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/data-line-expansion-i2c.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/data-line-expansion-i2c/issues"
+  },
+  "homepage": "https://github.com/stierma1/data-line-expansion-i2c#readme",
+  "dependencies": {
+    "rx": "^4.1.0"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-cli": "^6.9.0",
+    "babel-plugin-syntax-async-functions": "^6.8.0",
+    "babel-plugin-transform-regenerator": "^6.9.0"
+  }
+}
